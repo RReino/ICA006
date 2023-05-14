@@ -6,7 +6,7 @@
 **Kasutajanimi:** node01/node02/node03/lab
 **Parool:** 1234 (k.a root)
 ## 1. RAID
-2x raid 0 (2 ketast raidi kohta) 
+2x RAID 0 (2 ketast raidi kohta) 
 Suuruses: 146.74 GB
 ## 2. Linuxi installeerimine
 Linux Image [link](https://ubuntu.com/download/server) (Ubuntu Server 20.04 LTS)
