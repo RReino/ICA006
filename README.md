@@ -51,3 +51,5 @@ Linux Image [link](https://ubuntu.com/download/server) (Ubuntu Server 20.04 LTS)
  - CEPH kettad on alles ka peale formatit.
  - CEPH installerid ei ole samma versiooni.
  - Linuxi installimisega vahepeal peab uuendama updaterit, vahepeal mitte.
+
+### Commands [link] (https://docs.google.com/document/d/1tAPLtgQOq7a0KCkR3D25nWY8mKr4DfRBmg6Toj91o6A/edit#)
